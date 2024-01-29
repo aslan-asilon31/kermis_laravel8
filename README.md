@@ -1,7 +1,1 @@
-#
-Welcome to our car service business! We offer a wide range of services for all types of vehicles, from routine maintenance to major repairs. Our team of skilled technicians is dedicated to providing top-quality work and excellent customer service. We use only the best parts and equipment to ensure that your car is running smoothly and efficiently. Whether you need an oil change, brake repair, or engine diagnostics, we have you covered. Come visit us today and let us take care of all your car needs!
-
-
-### Long Screenshot
-
-![long-ss](https://user-images.githubusercontent.com/116990574/205523069-86023ac1-d16b-4dfa-ae93-bbfc203a489e.png)
+Welcome to Kermis – Your Ultimate Car Service Companion! At Kermis, we redefine your automotive experience by offering a seamless and innovative solution for all your car service needs. Our user-friendly web app is designed to provide convenience, reliability, and efficiency. Whether it's routine maintenance, repairs, or special services, Kermis is your trusted partner in ensuring your vehicle stays in optimal condition. Experience the future of car servicing with Kermis – where excellence meets convenience!
